@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parchurimohanvasmsi
+- 👋 Hi, I’m @parchurimohanvamsi
 - 👀 I’m interested in  data  
 - 🌱 I’m currently learning  python and data bse
 - 💞️ I’m looking to collaborate on ...
